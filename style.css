@@ -1,0 +1,80 @@
+.body {
+    background-color: #BFEAF5;
+}
+
+
+.box {
+    background-color: #EAFDFC;
+    width: 30%;
+    height: 800px;
+    border: groove 3px;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+.img {
+    height: 250px;
+    width: 100%;
+    border-radius: 30px;
+}
+
+.font {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.Nature {
+    border: solid rgb(212, 201, 201) 4px;
+    padding: 8px;
+    border-radius: 21px;
+    color: grey;
+}
+
+.Mountains {
+    border: solid rgb(212, 201, 201) 4px;
+    padding: 8px;
+    border-radius: 21px; 
+    color: grey;
+}
+
+.munnar {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+}
+
+.place {
+    color: #F55353;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.imp {
+    font-size: larger;
+    color: rgb(140, 152, 175);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.special {
+    color: rgb(24, 222, 126);
+}
+
+.btn {
+    margin-left: 35%;
+    background-color: #BFEAF5;
+    color: blue;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.des {
+    margin-left: 550px;
+    color: rgb(155, 76, 127);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
